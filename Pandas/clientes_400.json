@@ -1,0 +1,4002 @@
+[
+  {
+    "cliente_id": "C001",
+    "edad": 36,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1310,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C002",
+    "edad": 41,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1330,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C003",
+    "edad": 45,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1530,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C004",
+    "edad": 38,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C005",
+    "edad": 48,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C006",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 900,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C007",
+    "edad": 45,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1020,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C008",
+    "edad": 39,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1720,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C009",
+    "edad": 30,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1030,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C010",
+    "edad": 28,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 860,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C011",
+    "edad": 55,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1570,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C012",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C013",
+    "edad": 45,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1250,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C014",
+    "edad": 37,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1670,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C015",
+    "edad": 31,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1470,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C016",
+    "edad": 51,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1900,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C017",
+    "edad": 52,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1560,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C018",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 890,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C019",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C020",
+    "edad": 58,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1240,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C021",
+    "edad": 39,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 940,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C022",
+    "edad": 65,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1830,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C023",
+    "edad": 58,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C024",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C025",
+    "edad": 30,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C026",
+    "edad": 55,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C027",
+    "edad": 29,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1720,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C028",
+    "edad": 41,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2250,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C029",
+    "edad": 39,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1610,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C030",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1190,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C031",
+    "edad": 35,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 800,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C032",
+    "edad": 43,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1240,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C033",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2260,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C034",
+    "edad": 60,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1660,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C035",
+    "edad": 29,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1320,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C036",
+    "edad": 35,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2030,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C037",
+    "edad": 20,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C038",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 990,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C039",
+    "edad": 54,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2400,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C040",
+    "edad": 38,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C041",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C042",
+    "edad": 38,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1780,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C043",
+    "edad": 49,
+    "numero_hijos": 5,
+    "genero": "Otro",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1720,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C044",
+    "edad": 35,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2240,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C045",
+    "edad": 47,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C046",
+    "edad": 42,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1160,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C047",
+    "edad": 49,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1830,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C048",
+    "edad": 31,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1090,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C049",
+    "edad": 29,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C050",
+    "edad": 37,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 910,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C051",
+    "edad": 50,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1270,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C052",
+    "edad": 28,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2040,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C053",
+    "edad": 38,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1580,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C054",
+    "edad": 53,
+    "numero_hijos": 3,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2300,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C055",
+    "edad": 57,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1720,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C056",
+    "edad": 41,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1160,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C057",
+    "edad": 41,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2130,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C058",
+    "edad": 45,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C059",
+    "edad": 30,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1010,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C060",
+    "edad": 45,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1440,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C061",
+    "edad": 36,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C062",
+    "edad": 37,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1980,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C063",
+    "edad": 37,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 820,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C064",
+    "edad": 28,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1960,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C065",
+    "edad": 29,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C066",
+    "edad": 51,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1250,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C067",
+    "edad": 23,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C068",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1300,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C069",
+    "edad": 30,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C070",
+    "edad": 38,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C071",
+    "edad": 23,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1490,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C072",
+    "edad": 37,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1350,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C073",
+    "edad": 51,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2410,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C074",
+    "edad": 18,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1340,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C075",
+    "edad": 50,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C076",
+    "edad": 53,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C077",
+    "edad": 39,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 950,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C078",
+    "edad": 36,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1710,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C079",
+    "edad": 36,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1240,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C080",
+    "edad": 18,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1560,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C081",
+    "edad": 37,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1420,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C082",
+    "edad": 20,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1490,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C083",
+    "edad": 35,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1400,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C084",
+    "edad": 31,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C085",
+    "edad": 54,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1680,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C086",
+    "edad": 40,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1750,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C087",
+    "edad": 37,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1550,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C088",
+    "edad": 25,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 710,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C089",
+    "edad": 44,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C090",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 700,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C091",
+    "edad": 51,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 660,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C092",
+    "edad": 49,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C093",
+    "edad": 54,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1980,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C094",
+    "edad": 40,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1080,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C095",
+    "edad": 51,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C096",
+    "edad": 34,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 960,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C097",
+    "edad": 24,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1130,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C098",
+    "edad": 40,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1280,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C099",
+    "edad": 35,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C100",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1890,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C101",
+    "edad": 54,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1900,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C102",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C103",
+    "edad": 26,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C104",
+    "edad": 35,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1080,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C105",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1020,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C106",
+    "edad": 52,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C107",
+    "edad": 38,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1460,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C108",
+    "edad": 35,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1180,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C109",
+    "edad": 25,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1320,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C110",
+    "edad": 43,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1110,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C111",
+    "edad": 28,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1160,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C112",
+    "edad": 40,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1160,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C113",
+    "edad": 48,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C114",
+    "edad": 40,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1680,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C115",
+    "edad": 51,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1560,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C116",
+    "edad": 34,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 950,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C117",
+    "edad": 23,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 470,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C118",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1290,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C119",
+    "edad": 36,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1570,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C120",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1350,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C121",
+    "edad": 63,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2230,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C122",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1070,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C123",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1350,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C124",
+    "edad": 31,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1600,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C125",
+    "edad": 31,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2210,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C126",
+    "edad": 23,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2120,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C127",
+    "edad": 26,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1150,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C128",
+    "edad": 38,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1140,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C129",
+    "edad": 61,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2380,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C130",
+    "edad": 32,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1270,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C131",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1080,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C132",
+    "edad": 46,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1460,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C133",
+    "edad": 55,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1080,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C134",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1130,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C135",
+    "edad": 31,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1330,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C136",
+    "edad": 27,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C137",
+    "edad": 38,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1290,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C138",
+    "edad": 26,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 650,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C139",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 750,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C140",
+    "edad": 35,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C141",
+    "edad": 28,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1780,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C142",
+    "edad": 30,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1530,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C143",
+    "edad": 53,
+    "numero_hijos": 4,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1800,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C144",
+    "edad": 51,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1870,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C145",
+    "edad": 58,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1830,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C146",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 890,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C147",
+    "edad": 39,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2250,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C148",
+    "edad": 59,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1690,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C149",
+    "edad": 28,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1700,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C150",
+    "edad": 41,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1790,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C151",
+    "edad": 48,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1510,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C152",
+    "edad": 30,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 730,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C153",
+    "edad": 33,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2000,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C154",
+    "edad": 29,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 750,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C155",
+    "edad": 31,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1060,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C156",
+    "edad": 32,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1930,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C157",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C158",
+    "edad": 44,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 880,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C159",
+    "edad": 61,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C160",
+    "edad": 23,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1720,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C161",
+    "edad": 30,
+    "numero_hijos": 3,
+    "genero": "Otro",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 860,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C162",
+    "edad": 62,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1810,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C163",
+    "edad": 49,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 790,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C164",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1760,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C165",
+    "edad": 28,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 730,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C166",
+    "edad": 33,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C167",
+    "edad": 29,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C168",
+    "edad": 18,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 870,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C169",
+    "edad": 45,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1140,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C170",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1150,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C171",
+    "edad": 40,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1680,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C172",
+    "edad": 61,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1690,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C173",
+    "edad": 36,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1300,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C174",
+    "edad": 39,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C175",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C176",
+    "edad": 42,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 700,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C177",
+    "edad": 25,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1290,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C178",
+    "edad": 52,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1820,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C179",
+    "edad": 20,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 2280,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C180",
+    "edad": 30,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 590,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C181",
+    "edad": 29,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1370,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C182",
+    "edad": 22,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1460,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C183",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1280,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C184",
+    "edad": 24,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C185",
+    "edad": 38,
+    "numero_hijos": 2,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 640,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C186",
+    "edad": 30,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1180,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C187",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1710,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C188",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C189",
+    "edad": 37,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1630,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C190",
+    "edad": 48,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1160,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C191",
+    "edad": 37,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1120,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C192",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 940,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C193",
+    "edad": 33,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1070,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C194",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C195",
+    "edad": 36,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1280,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C196",
+    "edad": 39,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1610,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C197",
+    "edad": 43,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1790,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C198",
+    "edad": 59,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1980,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C199",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C200",
+    "edad": 28,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Quito",
+    "ingresos_mensuales": 1890,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C201",
+    "edad": 43,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1120,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C202",
+    "edad": 32,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C203",
+    "edad": 47,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C204",
+    "edad": 42,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1550,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C205",
+    "edad": 40,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 880,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C206",
+    "edad": 22,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 900,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C207",
+    "edad": 49,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1600,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C208",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1630,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C209",
+    "edad": 48,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1010,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C210",
+    "edad": 48,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1170,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C211",
+    "edad": 40,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C212",
+    "edad": 30,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C213",
+    "edad": 44,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1680,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C214",
+    "edad": 42,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 820,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C215",
+    "edad": 35,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 720,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C216",
+    "edad": 45,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1660,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C217",
+    "edad": 47,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1280,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C218",
+    "edad": 47,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 860,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C219",
+    "edad": 30,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C220",
+    "edad": 38,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C221",
+    "edad": 50,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 770,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C222",
+    "edad": 32,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1390,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C223",
+    "edad": 26,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1310,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C224",
+    "edad": 37,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 870,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C225",
+    "edad": 43,
+    "numero_hijos": 4,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C226",
+    "edad": 27,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C227",
+    "edad": 37,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1830,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C228",
+    "edad": 43,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1110,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C229",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1410,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C230",
+    "edad": 51,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1600,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C231",
+    "edad": 58,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1230,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C232",
+    "edad": 46,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 880,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C233",
+    "edad": 46,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1540,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C234",
+    "edad": 45,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C235",
+    "edad": 32,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1280,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C236",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1510,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C237",
+    "edad": 35,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1130,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C238",
+    "edad": 53,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1440,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C239",
+    "edad": 37,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C240",
+    "edad": 40,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 710,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C241",
+    "edad": 47,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 2000,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C242",
+    "edad": 57,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1780,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C243",
+    "edad": 64,
+    "numero_hijos": 1,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1840,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C244",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C245",
+    "edad": 46,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1650,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C246",
+    "edad": 51,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1380,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C247",
+    "edad": 37,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1140,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C248",
+    "edad": 53,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1750,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C249",
+    "edad": 35,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1350,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C250",
+    "edad": 66,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C251",
+    "edad": 25,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 400,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C252",
+    "edad": 57,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1800,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C253",
+    "edad": 25,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 400,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C254",
+    "edad": 24,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1460,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C255",
+    "edad": 26,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1470,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C256",
+    "edad": 32,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 2050,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C257",
+    "edad": 48,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1170,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C258",
+    "edad": 35,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1380,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C259",
+    "edad": 53,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1240,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C260",
+    "edad": 51,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1970,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C261",
+    "edad": 22,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 940,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C262",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 960,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C263",
+    "edad": 20,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1260,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C264",
+    "edad": 50,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 2340,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C265",
+    "edad": 42,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1530,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C266",
+    "edad": 56,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1070,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C267",
+    "edad": 33,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1680,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C268",
+    "edad": 27,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 660,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C269",
+    "edad": 41,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C270",
+    "edad": 23,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1390,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C271",
+    "edad": 18,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1130,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C272",
+    "edad": 25,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1310,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C273",
+    "edad": 35,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 510,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C274",
+    "edad": 32,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1610,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C275",
+    "edad": 25,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1490,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C276",
+    "edad": 28,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1030,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C277",
+    "edad": 37,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C278",
+    "edad": 35,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1360,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C279",
+    "edad": 18,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 890,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C280",
+    "edad": 29,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C281",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1040,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C282",
+    "edad": 49,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1370,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C283",
+    "edad": 42,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1780,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C284",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C285",
+    "edad": 57,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 2520,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C286",
+    "edad": 19,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 950,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C287",
+    "edad": 53,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1420,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C288",
+    "edad": 18,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1220,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C289",
+    "edad": 31,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1100,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C290",
+    "edad": 36,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1190,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C291",
+    "edad": 48,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1890,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C292",
+    "edad": 37,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1150,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C293",
+    "edad": 27,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1120,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C294",
+    "edad": 40,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 720,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C295",
+    "edad": 38,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1790,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C296",
+    "edad": 42,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1920,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C297",
+    "edad": 37,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1480,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C298",
+    "edad": 58,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1350,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C299",
+    "edad": 29,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1300,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C300",
+    "edad": 35,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1070,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C301",
+    "edad": 21,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 990,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C302",
+    "edad": 38,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1260,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C303",
+    "edad": 47,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1110,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C304",
+    "edad": 42,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1260,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C305",
+    "edad": 44,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1250,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C306",
+    "edad": 26,
+    "numero_hijos": 4,
+    "genero": "Otro",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1420,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C307",
+    "edad": 53,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1510,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C308",
+    "edad": 24,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1010,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C309",
+    "edad": 43,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1510,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C310",
+    "edad": 41,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 860,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C311",
+    "edad": 44,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 970,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C312",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C313",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1790,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C314",
+    "edad": 45,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1600,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C315",
+    "edad": 35,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1440,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C316",
+    "edad": 42,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1510,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C317",
+    "edad": 23,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C318",
+    "edad": 41,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1220,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C319",
+    "edad": 51,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1640,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C320",
+    "edad": 32,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Guayaquil",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C321",
+    "edad": 42,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 810,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C322",
+    "edad": 44,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 650,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C323",
+    "edad": 48,
+    "numero_hijos": 0,
+    "genero": "Otro",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1370,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C324",
+    "edad": 40,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1130,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C325",
+    "edad": 30,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 740,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C326",
+    "edad": 25,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1400,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C327",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1650,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C328",
+    "edad": 47,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1300,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C329",
+    "edad": 38,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C330",
+    "edad": 42,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 830,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C331",
+    "edad": 40,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1230,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C332",
+    "edad": 30,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C333",
+    "edad": 32,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1760,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C334",
+    "edad": 33,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1380,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C335",
+    "edad": 65,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1820,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C336",
+    "edad": 18,
+    "numero_hijos": 4,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 940,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C337",
+    "edad": 32,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1190,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C338",
+    "edad": 32,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1640,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C339",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 990,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C340",
+    "edad": 41,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C341",
+    "edad": 18,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 440,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C342",
+    "edad": 18,
+    "numero_hijos": 1,
+    "genero": "Otro",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1010,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C343",
+    "edad": 43,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1170,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C344",
+    "edad": 45,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 2040,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C345",
+    "edad": 32,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1310,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C346",
+    "edad": 18,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1050,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C347",
+    "edad": 39,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1370,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C348",
+    "edad": 44,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1500,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C349",
+    "edad": 34,
+    "numero_hijos": 3,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 830,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C350",
+    "edad": 48,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1860,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C351",
+    "edad": 21,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 800,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C352",
+    "edad": 27,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 460,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C353",
+    "edad": 52,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1340,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C354",
+    "edad": 24,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1030,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C355",
+    "edad": 32,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 2110,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C356",
+    "edad": 42,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1100,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C357",
+    "edad": 41,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 910,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C358",
+    "edad": 46,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1230,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C359",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 980,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C360",
+    "edad": 44,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1620,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C361",
+    "edad": 50,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1560,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C362",
+    "edad": 34,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1120,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C363",
+    "edad": 64,
+    "numero_hijos": 1,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1640,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C364",
+    "edad": 35,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 740,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C365",
+    "edad": 18,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1430,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C366",
+    "edad": 35,
+    "numero_hijos": 5,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 670,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C367",
+    "edad": 26,
+    "numero_hijos": 4,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1550,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C368",
+    "edad": 32,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 2260,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C369",
+    "edad": 30,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 550,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C370",
+    "edad": 44,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1330,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C371",
+    "edad": 38,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1170,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C372",
+    "edad": 43,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C373",
+    "edad": 51,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1590,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C374",
+    "edad": 60,
+    "numero_hijos": 4,
+    "genero": "Otro",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1830,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C375",
+    "edad": 33,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1230,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C376",
+    "edad": 25,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1200,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C377",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 930,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C378",
+    "edad": 22,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 490,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C379",
+    "edad": 44,
+    "numero_hijos": 1,
+    "genero": "Otro",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1190,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C380",
+    "edad": 68,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1290,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C381",
+    "edad": 38,
+    "numero_hijos": 3,
+    "genero": "Femenino",
+    "nivel_educacion": "Primaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1520,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C382",
+    "edad": 25,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 730,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C383",
+    "edad": 34,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 710,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C384",
+    "edad": 26,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1250,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C385",
+    "edad": 39,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1020,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C386",
+    "edad": 54,
+    "numero_hijos": 2,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1060,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C387",
+    "edad": 21,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 820,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C388",
+    "edad": 35,
+    "numero_hijos": 5,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1020,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C389",
+    "edad": 50,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1210,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C390",
+    "edad": 24,
+    "numero_hijos": 1,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 740,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C391",
+    "edad": 26,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C392",
+    "edad": 59,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 2000,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C393",
+    "edad": 24,
+    "numero_hijos": 1,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1030,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C394",
+    "edad": 40,
+    "numero_hijos": 3,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1000,
+    "satisfaccion": 2
+  },
+  {
+    "cliente_id": "C395",
+    "edad": 46,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1220,
+    "satisfaccion": 5
+  },
+  {
+    "cliente_id": "C396",
+    "edad": 39,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Secundaria",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1550,
+    "satisfaccion": 1
+  },
+  {
+    "cliente_id": "C397",
+    "edad": 32,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 910,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C398",
+    "edad": 38,
+    "numero_hijos": 0,
+    "genero": "Femenino",
+    "nivel_educacion": "Posgrado",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 460,
+    "satisfaccion": 3
+  },
+  {
+    "cliente_id": "C399",
+    "edad": 31,
+    "numero_hijos": 0,
+    "genero": "Masculino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 1440,
+    "satisfaccion": 4
+  },
+  {
+    "cliente_id": "C400",
+    "edad": 24,
+    "numero_hijos": 2,
+    "genero": "Femenino",
+    "nivel_educacion": "Universidad",
+    "ciudad": "Cuenca",
+    "ingresos_mensuales": 680,
+    "satisfaccion": 4
+  }
+]
