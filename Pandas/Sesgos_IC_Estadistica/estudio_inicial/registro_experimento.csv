@@ -1,0 +1,5 @@
+tienda,semana,ubicacion,ventas_producto,promocion_simultanea,notas
+Quito Norte,1,pasillo_principal,1250,no,
+Quito Sur,1,habitual,980,no,
+Guayaquil Centro,1,pasillo_principal,1420,si,
+Guayaquil Norte,1,habitual,1100,no,
