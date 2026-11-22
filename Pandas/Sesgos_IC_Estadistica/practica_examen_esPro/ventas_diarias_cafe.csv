@@ -1,0 +1,301 @@
+fecha,region,sucursal,ventas
+2026-01-15,Sierra,Quito Sur,1369.1
+2026-02-17,Costa,Guayaquil Centro,2046.23
+2026-02-11,Costa,Guayaquil Centro,1875.31
+2026-02-11,Costa,Manta,1283.53
+2026-02-01,Sierra,Quito Norte,1860.49
+2026-01-10,Sierra,Cuenca,1062.77
+2026-02-01,Costa,Guayaquil Centro,2347.66
+2026-01-04,Costa,Manta,1045.26
+2026-01-17,Sierra,Quito Norte,1841.58
+2026-01-08,Costa,Guayaquil Centro,1826.85
+2026-01-26,Sierra,Quito Norte,1978.6
+2026-02-09,Sierra,Quito Sur,1383.4
+2026-01-07,Costa,Manta,1468.47
+2026-01-14,Sierra,Quito Sur,1304.25
+2026-03-09,Sierra,Quito Norte,1890.02
+2026-02-15,Sierra,Quito Sur,1382.81
+2026-01-10,Costa,Manta,1491.83
+2026-02-27,Costa,Guayaquil Centro,1670.29
+2026-01-30,Sierra,Cuenca,895.29
+2026-03-03,Sierra,Quito Norte,1766.49
+2026-03-07,Sierra,Quito Norte,1925.51
+2026-03-01,Costa,Guayaquil Centro,2202.02
+2026-01-27,Costa,Guayaquil Centro,1965.63
+2026-02-18,Sierra,Quito Sur,1054.86
+2026-02-08,Sierra,Cuenca,936.96
+2026-02-15,Costa,Guayaquil Centro,1933.93
+2026-01-09,Sierra,Quito Sur,1689.87
+2026-02-03,Sierra,Quito Sur,1611.01
+2026-02-13,Costa,Guayaquil Centro,1511.2
+2026-01-06,Sierra,Quito Norte,1541.46
+2026-01-13,Costa,Manta,1182.92
+2026-01-31,Costa,Guayaquil Centro,2179.81
+2026-02-02,Sierra,Quito Sur,1096.35
+2026-02-08,Sierra,Quito Norte,1824.46
+2026-02-25,Costa,Guayaquil Centro,2666.75
+2026-02-09,Costa,Manta,870.71
+2026-01-11,Costa,Guayaquil Centro,1694.7
+2026-03-13,Costa,Guayaquil Centro,1611.01
+2026-02-11,Sierra,Cuenca,1328.16
+2026-01-02,Sierra,Cuenca,812.09
+2026-01-18,Sierra,Cuenca,1169.48
+2026-02-08,Sierra,Quito Sur,1524.42
+2026-02-22,Costa,Manta,983.1
+2026-02-03,Costa,Guayaquil Centro,1984.91
+2026-01-08,Sierra,Cuenca,586.23
+2026-01-06,Sierra,Cuenca,1359.47
+2026-02-17,Sierra,Quito Norte,2462.35
+2026-01-07,Sierra,Quito Norte,1828.17
+2026-01-03,Sierra,Cuenca,1384.25
+2026-03-15,Costa,Guayaquil Centro,2077.02
+2026-03-08,Sierra,Quito Norte,1901.5
+2026-01-05,Sierra,Quito Sur,1010.19
+2026-01-13,Sierra,Quito Sur,1308.59
+2026-02-10,Costa,Guayaquil Centro,2040.47
+2026-01-01,Sierra,Quito Sur,1619.9
+2026-02-16,Sierra,Quito Norte,1577.28
+2026-01-29,Sierra,Cuenca,1480.5
+2026-02-07,Sierra,Quito Norte,1875.22
+2026-01-04,Sierra,Quito Norte,1502.39
+2026-01-04,Sierra,Quito Sur,1609.82
+2026-01-08,Sierra,Quito Sur,1412.63
+2026-02-28,Sierra,Quito Norte,2118.45
+2026-01-15,Sierra,Quito Norte,960.93
+2026-01-22,Sierra,Cuenca,1136.01
+2026-01-12,Costa,Guayaquil Centro,1950.85
+2026-03-06,Sierra,Quito Norte,1597.51
+2026-01-26,Costa,Guayaquil Centro,2409.93
+2026-02-20,Sierra,Quito Norte,2324.03
+2026-01-24,Sierra,Quito Norte,2145.58
+2026-02-13,Sierra,Quito Norte,1424.5
+2026-01-10,Sierra,Quito Sur,1626.65
+2026-01-25,Sierra,Quito Norte,1685.4
+2026-02-22,Sierra,Quito Sur,1085.5
+2026-02-02,Sierra,Cuenca,1192.56
+2026-01-04,Sierra,Cuenca,1053.95
+2026-01-26,Costa,Manta,1287.7
+2026-02-08,Costa,Manta,1162.88
+2026-01-19,Costa,Manta,1645.85
+2026-03-16,Costa,Guayaquil Centro,2081.32
+2026-01-28,Costa,Guayaquil Centro,2345.76
+2026-02-10,Sierra,Quito Norte,2252.86
+2026-02-04,Sierra,Cuenca,1174.84
+2026-02-05,Sierra,Quito Sur,1705.67
+2026-01-21,Costa,Guayaquil Centro,2705.24
+2026-01-16,Sierra,Quito Norte,1740.96
+2026-01-29,Costa,Guayaquil Centro,2354.15
+2026-01-02,Costa,Manta,1661.58
+2026-02-17,Costa,Manta,1428.46
+2026-02-01,Sierra,Quito Sur,1317.52
+2026-02-07,Sierra,Cuenca,1015.96
+2026-02-15,Costa,Manta,1551.45
+2026-02-27,Sierra,Quito Norte,1076.08
+2026-01-25,Sierra,Cuenca,1112.75
+2026-02-23,Costa,Manta,1687.36
+2026-01-06,Costa,Guayaquil Centro,2238.3
+2026-01-31,Sierra,Quito Norte,2019.64
+2026-03-02,Costa,Guayaquil Centro,1839.64
+2026-02-03,Costa,Manta,1516.15
+2026-02-12,Sierra,Quito Norte,2061.21
+2026-02-21,Costa,Guayaquil Centro,2336.83
+2026-03-09,Costa,Guayaquil Centro,2643.19
+2026-02-26,Costa,Guayaquil Centro,2017.87
+2026-01-29,Sierra,Quito Sur,1237.56
+2026-02-06,Costa,Manta,1028.49
+2026-03-05,Costa,Guayaquil Centro,2074.39
+2026-02-15,Sierra,Quito Norte,1522.05
+2026-01-25,Sierra,Quito Sur,2175.06
+2026-02-24,Costa,Guayaquil Centro,1775.53
+2026-01-25,Costa,Manta,1729.76
+2026-02-13,Costa,Manta,1372.12
+2026-02-21,Sierra,Quito Sur,1532.95
+2026-01-05,Sierra,Quito Norte,2213.4
+2026-03-03,Costa,Guayaquil Centro,2231.8
+2026-02-14,Sierra,Quito Sur,1294.78
+2026-01-15,Costa,Manta,1136.54
+2026-02-23,Sierra,Quito Sur,1235.34
+2026-02-04,Sierra,Quito Norte,1906.45
+2026-01-20,Sierra,Quito Sur,2036.54
+2026-01-03,Sierra,Quito Sur,1538.67
+2026-01-29,Costa,Manta,1662.61
+2026-01-16,Sierra,Cuenca,1363.24
+2026-01-19,Sierra,Cuenca,930.72
+2026-01-30,Costa,Guayaquil Centro,1897.73
+2026-01-15,Sierra,Cuenca,1258.02
+2026-01-11,Sierra,Quito Norte,1968.69
+2026-02-07,Costa,Manta,1814.32
+2026-02-11,Sierra,Quito Sur,1540.32
+2026-01-27,Costa,Manta,940.6
+2026-01-13,Sierra,Quito Norte,1644.37
+2026-01-18,Sierra,Quito Sur,1308.06
+2026-01-31,Sierra,Cuenca,1315.56
+2026-01-03,Costa,Manta,998.68
+2026-01-12,Sierra,Cuenca,1091.39
+2026-02-11,Sierra,Quito Norte,2617.7
+2026-03-05,Sierra,Quito Norte,1576.63
+2026-02-19,Costa,Manta,1164.83
+2026-01-14,Sierra,Quito Norte,1725.56
+2026-02-06,Sierra,Cuenca,1056.09
+2026-01-18,Sierra,Quito Norte,1846.91
+2026-02-14,Costa,Guayaquil Centro,2115.86
+2026-02-20,Costa,Guayaquil Centro,2214.69
+2026-02-10,Costa,Manta,1615.61
+2026-02-21,Sierra,Quito Norte,1912.03
+2026-01-16,Sierra,Quito Sur,1373.79
+2026-02-24,Sierra,Quito Sur,1739.87
+2026-01-19,Sierra,Quito Sur,947.84
+2026-01-27,Sierra,Cuenca,531.68
+2026-02-13,Sierra,Cuenca,668.68
+2026-01-01,Costa,Guayaquil Centro,2151.72
+2026-02-22,Costa,Guayaquil Centro,2342.51
+2026-01-17,Sierra,Quito Sur,1266.63
+2026-02-09,Sierra,Cuenca,1448.48
+2026-02-16,Sierra,Quito Sur,1138.39
+2026-01-21,Sierra,Cuenca,1342.32
+2026-01-25,Costa,Guayaquil Centro,1815.71
+2026-01-24,Costa,Manta,1189.99
+2026-02-21,Costa,Manta,1474.02
+2026-01-18,Costa,Guayaquil Centro,2307.45
+2026-01-01,Sierra,Cuenca,1366.87
+2026-03-08,Costa,Guayaquil Centro,1927.2
+2026-02-16,Costa,Guayaquil Centro,2401.87
+2026-01-02,Sierra,Quito Sur,1590.56
+2026-01-28,Costa,Manta,1280.42
+2026-01-01,Costa,Manta,1500.93
+2026-01-17,Costa,Guayaquil Centro,2260.85
+2026-02-18,Costa,Guayaquil Centro,2374.97
+2026-01-12,Sierra,Quito Sur,1128.3
+2026-02-05,Costa,Manta,1257.1
+2026-01-26,Sierra,Quito Sur,1229.32
+2026-01-09,Sierra,Cuenca,1390.78
+2026-01-22,Costa,Manta,1834.49
+2026-02-12,Costa,Manta,1706.77
+2026-01-13,Sierra,Cuenca,1436.87
+2026-01-31,Sierra,Quito Sur,1374.77
+2026-02-05,Costa,Guayaquil Centro,1751.09
+2026-02-09,Costa,Guayaquil Centro,1958.21
+2026-02-04,Costa,Manta,1401.9
+2026-01-10,Costa,Guayaquil Centro,2420.81
+2026-01-30,Costa,Manta,1278.05
+2026-01-09,Sierra,Quito Norte,2044.43
+2026-02-07,Sierra,Quito Sur,1531.89
+2026-02-23,Sierra,Quito Norte,1907.28
+2026-01-28,Sierra,Quito Norte,1803.15
+2026-02-04,Costa,Guayaquil Centro,2081.95
+2026-03-02,Sierra,Quito Norte,2159.41
+2026-01-23,Sierra,Quito Sur,1470.05
+2026-02-02,Sierra,Quito Norte,1798.78
+2026-02-20,Costa,Manta,1543.64
+2026-01-16,Costa,Guayaquil Centro,1681.29
+2026-01-11,Sierra,Cuenca,1055.94
+2026-01-23,Sierra,Quito Norte,1923.22
+2026-03-04,Sierra,Quito Norte,2026.45
+2026-02-14,Costa,Manta,1395.4
+2026-03-10,Costa,Guayaquil Centro,2311.09
+2026-01-22,Costa,Guayaquil Centro,1829.98
+2026-01-06,Costa,Manta,1511.82
+2026-01-16,Costa,Manta,1690.97
+2026-03-11,Costa,Guayaquil Centro,2129.95
+2026-01-04,Costa,Guayaquil Centro,2182.38
+2026-02-05,Sierra,Quito Norte,2060.54
+2026-01-24,Costa,Guayaquil Centro,1777.07
+2026-01-09,Costa,Guayaquil Centro,2694.66
+2026-02-12,Sierra,Cuenca,881.05
+2026-02-20,Sierra,Quito Sur,1336.45
+2026-01-08,Costa,Manta,1124.53
+2026-01-20,Sierra,Quito Norte,1938.31
+2026-02-07,Costa,Guayaquil Centro,2114.8
+2026-02-14,Sierra,Quito Norte,1891.81
+2026-03-10,Sierra,Quito Norte,2324.73
+2026-01-07,Sierra,Quito Sur,1803.04
+2026-02-08,Costa,Guayaquil Centro,1614.7
+2026-02-12,Sierra,Quito Sur,2138.61
+2026-02-16,Costa,Manta,1429.53
+2026-02-12,Costa,Guayaquil Centro,1829.99
+2026-01-12,Sierra,Quito Norte,1572.11
+2026-02-25,Sierra,Quito Norte,1614.75
+2026-01-19,Costa,Guayaquil Centro,1795.48
+2026-03-12,Costa,Guayaquil Centro,1465.19
+2026-01-10,Sierra,Quito Norte,1965.64
+2026-03-06,Costa,Guayaquil Centro,2442.57
+2026-01-20,Costa,Manta,1750.69
+2026-01-30,Sierra,Quito Norte,1448.07
+2026-02-09,Sierra,Quito Norte,1967.6
+2026-02-04,Sierra,Quito Sur,1235.07
+2026-02-26,Sierra,Quito Norte,1949.15
+2026-01-17,Costa,Manta,1658.71
+2026-01-22,Sierra,Quito Norte,2393.37
+2026-01-22,Sierra,Quito Sur,1738.52
+2026-02-28,Costa,Guayaquil Centro,2013.25
+2026-01-13,Costa,Guayaquil Centro,2346.9
+2026-02-18,Costa,Manta,1680.13
+2026-03-01,Sierra,Quito Norte,1971.67
+2026-01-31,Costa,Manta,1596.55
+2026-01-03,Costa,Guayaquil Centro,2347.94
+2026-03-04,Costa,Guayaquil Centro,2401.75
+2026-01-21,Sierra,Quito Sur,1882.67
+2026-02-06,Sierra,Quito Norte,2471.35
+2026-02-01,Sierra,Cuenca,1095.16
+2026-01-03,Sierra,Quito Norte,1627.44
+2026-02-22,Sierra,Quito Norte,1526.06
+2026-01-18,Costa,Manta,1519.4
+2026-01-20,Costa,Guayaquil Centro,1366.23
+2026-02-18,Sierra,Quito Norte,1774.51
+2026-02-03,Sierra,Cuenca,1036.12
+2026-01-21,Costa,Manta,1771.12
+2026-01-17,Sierra,Cuenca,1685.73
+2026-02-23,Costa,Guayaquil Centro,1987.9
+2026-01-27,Sierra,Quito Sur,1893.33
+2026-01-14,Costa,Guayaquil Centro,2021.17
+2026-01-06,Sierra,Quito Sur,1339.64
+2026-01-19,Sierra,Quito Norte,1834.18
+2026-03-14,Costa,Guayaquil Centro,1510.9
+2026-01-11,Costa,Manta,1411.08
+2026-02-05,Sierra,Cuenca,1385.21
+2026-01-11,Sierra,Quito Sur,643.54
+2026-01-20,Sierra,Cuenca,1299.25
+2026-02-19,Costa,Guayaquil Centro,1666.61
+2026-01-30,Sierra,Quito Sur,1264.02
+2026-03-07,Costa,Guayaquil Centro,2049.79
+2026-02-17,Sierra,Quito Sur,1116.93
+2026-01-02,Sierra,Quito Norte,1822.67
+2026-02-13,Sierra,Quito Sur,1131.73
+2026-02-01,Costa,Manta,1477.95
+2026-01-05,Costa,Guayaquil Centro,1199.91
+2026-01-09,Costa,Manta,1211.59
+2026-01-23,Costa,Manta,1210.38
+2026-01-15,Costa,Guayaquil Centro,1997.46
+2026-02-10,Sierra,Cuenca,979.18
+2026-01-23,Costa,Guayaquil Centro,2220.71
+2026-01-01,Sierra,Quito Norte,2176.17
+2026-02-24,Sierra,Quito Norte,1443.12
+2026-01-29,Sierra,Quito Norte,1331.99
+2026-02-06,Costa,Guayaquil Centro,2352.12
+2026-02-19,Sierra,Quito Norte,1657.87
+2026-01-21,Sierra,Quito Norte,1959.27
+2026-01-07,Costa,Guayaquil Centro,1554.25
+2026-02-03,Sierra,Quito Norte,1661.34
+2026-01-02,Costa,Guayaquil Centro,2448.48
+2026-01-08,Sierra,Quito Norte,2190.84
+2026-02-24,Costa,Manta,1599.17
+2026-02-06,Sierra,Quito Sur,1442.1
+2026-01-28,Sierra,Quito Sur,1579.31
+2026-02-10,Sierra,Quito Sur,1464.61
+2026-03-11,Sierra,Quito Norte,1805.88
+2026-01-05,Sierra,Cuenca,919.41
+2026-01-14,Costa,Manta,1357.62
+2026-01-26,Sierra,Cuenca,960.66
+2026-01-27,Sierra,Quito Norte,1967.7
+2026-01-24,Sierra,Quito Sur,1238.42
+2026-01-24,Sierra,Cuenca,1688.65
+2026-02-19,Sierra,Quito Sur,1470.82
+2026-01-14,Sierra,Cuenca,1480.78
+2026-02-14,Sierra,Cuenca,1044.8
+2026-02-02,Costa,Guayaquil Centro,2511.33
+2026-01-23,Sierra,Cuenca,1128.06
+2026-02-02,Costa,Manta,1050.65
+2026-01-12,Costa,Manta,1656.39
+2026-01-07,Sierra,Cuenca,1400.28
+2026-01-05,Costa,Manta,1156.51
+2026-01-28,Sierra,Cuenca,1371.44

@@ -1,0 +1,13 @@
+cliente_id,edad,num_mascotas,genero,nivel_estudios,ciudad,gasto_mensual,frecuencia_visita,suscrito,calificacion_servicio
+1,23,0,F,Grado,Quito,42.5,Ocasional,No,3
+2,31,1,M,Maestria,Guayaquil,88.2,Semanal,Si,5
+3,45,2,F,Bachillerato,Cuenca,35.0,Ocasional,No,2
+4,28,0,Otro,Tecnico,Quito,61.75,Semanal,Si,4
+5,52,3,M,Maestria,Quito,120.4,Diaria,Si,5
+6,36,1,F,Grado,Guayaquil,54.9,Semanal,No,4
+7,41,0,M,Tecnico,Cuenca,47.3,Ocasional,No,3
+8,19,0,F,Bachillerato,Quito,29.8,Ocasional,No,2
+9,60,2,M,Grado,Guayaquil,73.1,Semanal,Si,4
+10,34,1,F,Maestria,Cuenca,95.6,Diaria,Si,5
+11,27,0,Otro,Tecnico,Quito,38.25,Ocasional,No,3
+12,48,1,M,Grado,Guayaquil,66.0,Semanal,Si,4
