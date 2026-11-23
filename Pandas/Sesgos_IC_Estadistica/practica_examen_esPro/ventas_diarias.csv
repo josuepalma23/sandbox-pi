@@ -1,0 +1,281 @@
+fecha,sucursal,region,ventas,clientes
+2026-09-28,Quito Norte,Sierra,1574,33
+2026-09-29,Quito Norte,Sierra,2101,45
+2026-09-30,Quito Norte,Sierra,1785,39
+2026-10-01,Quito Norte,Sierra,1259,50
+2026-10-02,Quito Norte,Sierra,1943,36
+2026-10-03,Quito Norte,Sierra,2430,64
+2026-10-04,Quito Norte,Sierra,2620,68
+2026-10-05,Quito Norte,Sierra,1909,48
+2026-10-06,Quito Norte,Sierra,1398,41
+2026-10-07,Quito Norte,Sierra,1564,38
+2026-10-08,Quito Norte,Sierra,1249,47
+2026-10-09,Quito Norte,Sierra,1814,41
+2026-10-10,Quito Norte,Sierra,2838,60
+2026-10-11,Quito Norte,Sierra,1890,68
+2026-10-12,Quito Norte,Sierra,1681,43
+2026-10-13,Quito Norte,Sierra,1298,42
+2026-10-14,Quito Norte,Sierra,2014,50
+2026-10-15,Quito Norte,Sierra,1669,36
+2026-10-16,Quito Norte,Sierra,1799,50
+2026-10-17,Quito Norte,Sierra,2944,68
+2026-10-18,Quito Norte,Sierra,2996,58
+2026-10-19,Quito Norte,Sierra,1417,49
+2026-10-20,Quito Norte,Sierra,1787,35
+2026-10-21,Quito Norte,Sierra,1329,44
+2026-10-22,Quito Norte,Sierra,1573,48
+2026-10-23,Quito Norte,Sierra,2124,34
+2026-10-24,Quito Norte,Sierra,2318,57
+2026-10-25,Quito Norte,Sierra,2308,74
+2026-10-26,Quito Norte,Sierra,1760,38
+2026-10-27,Quito Norte,Sierra,1620,36
+2026-10-28,Quito Norte,Sierra,1637,46
+2026-10-29,Quito Norte,Sierra,1408,48
+2026-10-30,Quito Norte,Sierra,1795,45
+2026-10-31,Quito Norte,Sierra,2822,71
+2026-11-01,Quito Norte,Sierra,2634,66
+2026-11-02,Quito Norte,Sierra,1990,39
+2026-11-03,Quito Norte,Sierra,1680,35
+2026-11-04,Quito Norte,Sierra,1348,40
+2026-11-05,Quito Norte,Sierra,1956,37
+2026-11-06,Quito Norte,Sierra,1948,51
+2026-11-07,Quito Norte,Sierra,2556,52
+2026-11-08,Quito Norte,Sierra,2657,49
+2026-11-09,Quito Norte,Sierra,2109,37
+2026-11-10,Quito Norte,Sierra,1322,44
+2026-11-11,Quito Norte,Sierra,1756,40
+2026-11-12,Quito Norte,Sierra,2092,45
+2026-11-13,Quito Norte,Sierra,1909,51
+2026-11-14,Quito Norte,Sierra,1911,66
+2026-11-15,Quito Norte,Sierra,2851,58
+2026-11-16,Quito Norte,Sierra,1430,34
+2026-11-17,Quito Norte,Sierra,1389,51
+2026-11-18,Quito Norte,Sierra,2031,38
+2026-11-19,Quito Norte,Sierra,1649,42
+2026-11-20,Quito Norte,Sierra,1467,42
+2026-11-21,Quito Norte,Sierra,2236,67
+2026-11-22,Quito Norte,Sierra,2943,49
+2026-09-28,Quito Sur,Sierra,1291,31
+2026-09-29,Quito Sur,Sierra,1088,39
+2026-09-30,Quito Sur,Sierra,1637,34
+2026-10-01,Quito Sur,Sierra,1508,34
+2026-10-02,Quito Sur,Sierra,1302,28
+2026-10-03,Quito Sur,Sierra,2309,62
+2026-10-04,Quito Sur,Sierra,2376,43
+2026-10-05,Quito Sur,Sierra,1622,33
+2026-10-06,Quito Sur,Sierra,1401,31
+2026-10-07,Quito Sur,Sierra,1392,38
+2026-10-08,Quito Sur,Sierra,1358,39
+2026-10-09,Quito Sur,Sierra,1544,29
+2026-10-10,Quito Sur,Sierra,1877,52
+2026-10-11,Quito Sur,Sierra,2202,45
+2026-10-12,Quito Sur,Sierra,1464,37
+2026-10-13,Quito Sur,Sierra,1040,42
+2026-10-14,Quito Sur,Sierra,1406,42
+2026-10-15,Quito Sur,Sierra,1576,39
+2026-10-16,Quito Sur,Sierra,1329,29
+2026-10-17,Quito Sur,Sierra,1623,54
+2026-10-18,Quito Sur,Sierra,2212,53
+2026-10-19,Quito Sur,Sierra,1021,43
+2026-10-20,Quito Sur,Sierra,1503,36
+2026-10-21,Quito Sur,Sierra,1652,38
+2026-10-22,Quito Sur,Sierra,1380,37
+2026-10-23,Quito Sur,Sierra,1083,40
+2026-10-24,Quito Sur,Sierra,1856,55
+2026-10-25,Quito Sur,Sierra,1553,57
+2026-10-26,Quito Sur,Sierra,1019,35
+2026-10-27,Quito Sur,Sierra,1332,27
+2026-10-28,Quito Sur,Sierra,1472,41
+2026-10-29,Quito Sur,Sierra,980,30
+2026-10-30,Quito Sur,Sierra,1665,41
+2026-10-31,Quito Sur,Sierra,1819,52
+2026-11-01,Quito Sur,Sierra,2244,45
+2026-11-02,Quito Sur,Sierra,1448,31
+2026-11-03,Quito Sur,Sierra,1580,43
+2026-11-04,Quito Sur,Sierra,1016,33
+2026-11-05,Quito Sur,Sierra,1611,33
+2026-11-06,Quito Sur,Sierra,1349,38
+2026-11-07,Quito Sur,Sierra,2016,55
+2026-11-08,Quito Sur,Sierra,2201,44
+2026-11-09,Quito Sur,Sierra,1051,32
+2026-11-10,Quito Sur,Sierra,1058,34
+2026-11-11,Quito Sur,Sierra,1678,29
+2026-11-12,Quito Sur,Sierra,1633,31
+2026-11-13,Quito Sur,Sierra,1590,31
+2026-11-14,Quito Sur,Sierra,2259,47
+2026-11-15,Quito Sur,Sierra,1510,53
+2026-11-16,Quito Sur,Sierra,1158,30
+2026-11-17,Quito Sur,Sierra,1199,38
+2026-11-18,Quito Sur,Sierra,1605,40
+2026-11-19,Quito Sur,Sierra,1205,36
+2026-11-20,Quito Sur,Sierra,1512,28
+2026-11-21,Quito Sur,Sierra,1494,58
+2026-11-22,Quito Sur,Sierra,1475,62
+2026-09-28,Guayaquil Centro,Costa,1728,51
+2026-09-29,Guayaquil Centro,Costa,1944,58
+2026-09-30,Guayaquil Centro,Costa,1570,62
+2026-10-01,Guayaquil Centro,Costa,2448,44
+2026-10-02,Guayaquil Centro,Costa,1960,47
+2026-10-03,Guayaquil Centro,Costa,2395,92
+2026-10-04,Guayaquil Centro,Costa,3557,84
+2026-10-05,Guayaquil Centro,Costa,2088,57
+2026-10-06,Guayaquil Centro,Costa,2302,51
+2026-10-07,Guayaquil Centro,Costa,2560,52
+2026-10-08,Guayaquil Centro,Costa,2034,50
+2026-10-09,Guayaquil Centro,Costa,1947,51
+2026-10-10,Guayaquil Centro,Costa,2916,78
+2026-10-11,Guayaquil Centro,Costa,2801,73
+2026-10-12,Guayaquil Centro,Costa,1893,62
+2026-10-13,Guayaquil Centro,Costa,2239,62
+2026-10-14,Guayaquil Centro,Costa,2172,45
+2026-10-15,Guayaquil Centro,Costa,2117,57
+2026-10-16,Guayaquil Centro,Costa,1613,64
+2026-10-17,Guayaquil Centro,Costa,3471,66
+2026-10-18,Guayaquil Centro,Costa,2764,72
+2026-10-19,Guayaquil Centro,Costa,2001,44
+2026-10-20,Guayaquil Centro,Costa,1752,61
+2026-10-21,Guayaquil Centro,Costa,2245,49
+2026-10-22,Guayaquil Centro,Costa,2488,44
+2026-10-23,Guayaquil Centro,Costa,1593,60
+2026-10-24,Guayaquil Centro,Costa,3258,64
+2026-10-25,Guayaquil Centro,Costa,3443,89
+2026-10-26,Guayaquil Centro,Costa,2219,51
+2026-10-27,Guayaquil Centro,Costa,1536,59
+2026-10-28,Guayaquil Centro,Costa,2438,51
+2026-10-29,Guayaquil Centro,Costa,1993,58
+2026-10-30,Guayaquil Centro,Costa,1995,56
+2026-10-31,Guayaquil Centro,Costa,3710,97
+2026-11-01,Guayaquil Centro,Costa,2231,93
+2026-11-02,Guayaquil Centro,Costa,2482,55
+2026-11-03,Guayaquil Centro,Costa,2013,58
+2026-11-04,Guayaquil Centro,Costa,2587,54
+2026-11-05,Guayaquil Centro,Costa,1637,52
+2026-11-06,Guayaquil Centro,Costa,2434,45
+2026-11-07,Guayaquil Centro,Costa,3418,75
+2026-11-08,Guayaquil Centro,Costa,2994,89
+2026-11-09,Guayaquil Centro,Costa,1746,46
+2026-11-10,Guayaquil Centro,Costa,2156,64
+2026-11-11,Guayaquil Centro,Costa,2216,59
+2026-11-12,Guayaquil Centro,Costa,2468,62
+2026-11-13,Guayaquil Centro,Costa,2415,58
+2026-11-14,Guayaquil Centro,Costa,2396,72
+2026-11-15,Guayaquil Centro,Costa,2347,77
+2026-11-16,Guayaquil Centro,Costa,1788,47
+2026-11-17,Guayaquil Centro,Costa,1717,49
+2026-11-18,Guayaquil Centro,Costa,2245,66
+2026-11-19,Guayaquil Centro,Costa,2288,56
+2026-11-20,Guayaquil Centro,Costa,1791,57
+2026-11-21,Guayaquil Centro,Costa,3599,93
+2026-11-22,Guayaquil Centro,Costa,2759,70
+2026-09-28,Guayaquil Norte,Costa,2212,49
+2026-09-29,Guayaquil Norte,Costa,2227,55
+2026-09-30,Guayaquil Norte,Costa,1379,47
+2026-10-01,Guayaquil Norte,Costa,1619,44
+2026-10-02,Guayaquil Norte,Costa,1591,58
+2026-10-03,Guayaquil Norte,Costa,2337,82
+2026-10-04,Guayaquil Norte,Costa,2649,63
+2026-10-05,Guayaquil Norte,Costa,2012,55
+2026-10-06,Guayaquil Norte,Costa,1767,41
+2026-10-07,Guayaquil Norte,Costa,1510,60
+2026-10-08,Guayaquil Norte,Costa,1529,45
+2026-10-09,Guayaquil Norte,Costa,2319,54
+2026-10-10,Guayaquil Norte,Costa,2205,64
+2026-10-11,Guayaquil Norte,Costa,3131,82
+2026-10-12,Guayaquil Norte,Costa,2026,46
+2026-10-13,Guayaquil Norte,Costa,2255,56
+2026-10-14,Guayaquil Norte,Costa,2040,50
+2026-10-15,Guayaquil Norte,Costa,1745,52
+2026-10-16,Guayaquil Norte,Costa,2291,49
+2026-10-17,Guayaquil Norte,Costa,2829,69
+2026-10-18,Guayaquil Norte,Costa,2120,88
+2026-10-19,Guayaquil Norte,Costa,1635,42
+2026-10-20,Guayaquil Norte,Costa,1999,41
+2026-10-21,Guayaquil Norte,Costa,2130,43
+2026-10-22,Guayaquil Norte,Costa,2104,58
+2026-10-23,Guayaquil Norte,Costa,1470,43
+2026-10-24,Guayaquil Norte,Costa,2234,76
+2026-10-25,Guayaquil Norte,Costa,3135,81
+2026-10-26,Guayaquil Norte,Costa,1409,57
+2026-10-27,Guayaquil Norte,Costa,2300,56
+2026-10-28,Guayaquil Norte,Costa,1505,42
+2026-10-29,Guayaquil Norte,Costa,1966,39
+2026-10-30,Guayaquil Norte,Costa,1477,47
+2026-10-31,Guayaquil Norte,Costa,3349,67
+2026-11-01,Guayaquil Norte,Costa,2359,72
+2026-11-02,Guayaquil Norte,Costa,1537,48
+2026-11-03,Guayaquil Norte,Costa,1464,51
+2026-11-04,Guayaquil Norte,Costa,2052,55
+2026-11-05,Guayaquil Norte,Costa,1614,58
+2026-11-06,Guayaquil Norte,Costa,1493,47
+2026-11-07,Guayaquil Norte,Costa,2456,84
+2026-11-08,Guayaquil Norte,Costa,3409,88
+2026-11-09,Guayaquil Norte,Costa,1575,50
+2026-11-10,Guayaquil Norte,Costa,2250,43
+2026-11-11,Guayaquil Norte,Costa,2314,47
+2026-11-12,Guayaquil Norte,Costa,2214,57
+2026-11-13,Guayaquil Norte,Costa,1851,54
+2026-11-14,Guayaquil Norte,Costa,2039,57
+2026-11-15,Guayaquil Norte,Costa,2130,77
+2026-11-16,Guayaquil Norte,Costa,2234,39
+2026-11-17,Guayaquil Norte,Costa,2336,43
+2026-11-18,Guayaquil Norte,Costa,2054,44
+2026-11-19,Guayaquil Norte,Costa,1991,54
+2026-11-20,Guayaquil Norte,Costa,2098,51
+2026-11-21,Guayaquil Norte,Costa,2580,86
+2026-11-22,Guayaquil Norte,Costa,2311,69
+2026-09-28,Cuenca,Sierra,971,26
+2026-09-29,Cuenca,Sierra,873,24
+2026-09-30,Cuenca,Sierra,928,26
+2026-10-01,Cuenca,Sierra,1411,29
+2026-10-02,Cuenca,Sierra,1365,34
+2026-10-03,Cuenca,Sierra,2101,38
+2026-10-04,Cuenca,Sierra,1555,47
+2026-10-05,Cuenca,Sierra,1351,24
+2026-10-06,Cuenca,Sierra,1112,25
+2026-10-07,Cuenca,Sierra,853,27
+2026-10-08,Cuenca,Sierra,1077,34
+2026-10-09,Cuenca,Sierra,1440,30
+2026-10-10,Cuenca,Sierra,1346,46
+2026-10-11,Cuenca,Sierra,1524,42
+2026-10-12,Cuenca,Sierra,1178,30
+2026-10-13,Cuenca,Sierra,1429,22
+2026-10-14,Cuenca,Sierra,1239,28
+2026-10-15,Cuenca,Sierra,968,30
+2026-10-16,Cuenca,Sierra,1139,29
+2026-10-17,Cuenca,Sierra,1318,49
+2026-10-18,Cuenca,Sierra,1455,49
+2026-10-19,Cuenca,Sierra,1266,30
+2026-10-20,Cuenca,Sierra,1424,33
+2026-10-21,Cuenca,Sierra,965,27
+2026-10-22,Cuenca,Sierra,1358,25
+2026-10-23,Cuenca,Sierra,921,34
+2026-10-24,Cuenca,Sierra,1407,37
+2026-10-25,Cuenca,Sierra,1264,47
+2026-10-26,Cuenca,Sierra,1129,26
+2026-10-27,Cuenca,Sierra,999,22
+2026-10-28,Cuenca,Sierra,1331,22
+2026-10-29,Cuenca,Sierra,1174,26
+2026-10-30,Cuenca,Sierra,877,33
+2026-10-31,Cuenca,Sierra,1582,33
+2026-11-01,Cuenca,Sierra,1956,47
+2026-11-02,Cuenca,Sierra,1357,32
+2026-11-03,Cuenca,Sierra,898,28
+2026-11-04,Cuenca,Sierra,1127,28
+2026-11-05,Cuenca,Sierra,937,33
+2026-11-06,Cuenca,Sierra,1375,22
+2026-11-07,Cuenca,Sierra,1318,44
+2026-11-08,Cuenca,Sierra,2099,45
+2026-11-09,Cuenca,Sierra,1366,23
+2026-11-10,Cuenca,Sierra,969,31
+2026-11-11,Cuenca,Sierra,1424,32
+2026-11-12,Cuenca,Sierra,1431,22
+2026-11-13,Cuenca,Sierra,1146,26
+2026-11-14,Cuenca,Sierra,2084,44
+2026-11-15,Cuenca,Sierra,1318,40
+2026-11-16,Cuenca,Sierra,944,33
+2026-11-17,Cuenca,Sierra,1373,27
+2026-11-18,Cuenca,Sierra,1452,26
+2026-11-19,Cuenca,Sierra,932,22
+2026-11-20,Cuenca,Sierra,1385,33
+2026-11-21,Cuenca,Sierra,1431,36
+2026-11-22,Cuenca,Sierra,1819,35

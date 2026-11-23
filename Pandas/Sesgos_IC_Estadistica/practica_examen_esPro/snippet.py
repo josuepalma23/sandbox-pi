@@ -1,5 +1,16 @@
 import matplotlib
 
+'''
+Pasos del diseño de un experimento
+a) Definir poblacion objetivo y tratamientos
+b) establecer un grupo de control
+c) Aplicar la aleatorizacion
+d) Implementar cegamiento
+e) Analisis estadistico y conclusion
+'''
+
+
+
 matplotlib.use("Agg")  # permite ejecutar sin pantalla
 
 import matplotlib.pyplot as plt
