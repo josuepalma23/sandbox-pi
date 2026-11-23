@@ -1,9 +1,11 @@
+## GRAFICOS AIDAN
+
 import pandas as  pd 
 import matplotlib.pyplot as plt 
 from matplotlib.ticker import FuncFormatter 
 
 Azul, Oro = "#205080", "#8a6d1f"
-ventas = pd.read_csv('datos/ventas_diarias.csv')
+ventas = pd.read_csv('practica_examen_esPro/ventas_diarias.csv')
 
 # Calculo de frecuencias Absolutas 
 region_frec_abs = ventas['region'].value_counts()

@@ -1,3 +1,6 @@
+## SNIPPET 1
+
+
 import matplotlib
 
 '''
